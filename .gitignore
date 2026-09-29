@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Local data / generated output
+data/
+logs/
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
+
+# macOS
+.DS_Store
+
